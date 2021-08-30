@@ -1,0 +1,2 @@
+python-decouple==3.4
+Python-Jenkins==1.7.0
